@@ -1,0 +1,14 @@
+# Maya autosaves & temp
+*.mb~
+*.ma~
+autosave/
+*.swatches
+
+# Cache files
+cache/
+*.mcx
+*.mcc
+
+# OS junk
+.DS_Store
+Thumbs.db
